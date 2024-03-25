@@ -1,0 +1,1 @@
+nethack -u Antonia

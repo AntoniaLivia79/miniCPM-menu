@@ -1,0 +1,2 @@
+~/GAMES/adom/adom
+
